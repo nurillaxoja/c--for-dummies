@@ -1,0 +1,12 @@
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\bin\Debug\net5.0\MytestLib.deps.json
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\bin\Debug\net5.0\MytestLib.dll
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\bin\Debug\net5.0\ref\MytestLib.dll
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\bin\Debug\net5.0\MytestLib.pdb
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.csproj.AssemblyReference.cache
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.AssemblyInfoInputs.cache
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.AssemblyInfo.cs
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.csproj.CoreCompileInputs.cache
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.dll
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\ref\MytestLib.dll
+C:\Users\Xoja\source\repos\EducationalProject\MytestLib\obj\Debug\net5.0\MytestLib.pdb

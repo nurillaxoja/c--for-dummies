@@ -1,0 +1,15 @@
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.exe
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.deps.json
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.runtimeconfig.json
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.runtimeconfig.dev.json
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.dll
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\ref\Chapter22.dll
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\bin\Debug\net5.0\Chapter22.pdb
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.AssemblyInfoInputs.cache
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.AssemblyInfo.cs
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.csproj.CoreCompileInputs.cache
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.dll
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\ref\Chapter22.dll
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.pdb
+C:\Users\Xoja\source\repos\EducationalProject\Chapter22\obj\Debug\net5.0\Chapter22.genruntimeconfig.cache

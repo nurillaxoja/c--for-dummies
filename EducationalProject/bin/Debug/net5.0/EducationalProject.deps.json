@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EducationalProject/1.0.0": {
+        "dependencies": {
+          "MytestLib": "1.0.0"
+        },
+        "runtime": {
+          "EducationalProject.dll": {}
+        }
+      },
+      "MytestLib/1.0.0": {
+        "runtime": {
+          "MytestLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EducationalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MytestLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

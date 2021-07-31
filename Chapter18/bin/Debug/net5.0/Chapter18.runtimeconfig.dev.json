@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Xoja\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Xoja\\.nuget\\packages"
+    ]
+  }
+}
